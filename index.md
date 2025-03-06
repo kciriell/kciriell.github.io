@@ -6,4 +6,5 @@ title: Welcome to My Site
 <p>This is a simple introduction to my site.</p>
 
 # Markdown title
+## heading 2
 *italicize*
